@@ -19,15 +19,7 @@ CSS/SCSS: For styling and creating a responsive layout.
 Local Storage: For persisting cart data across sessions.
 Getting Started
  
-Folder Structure
-public/: Contains static assets like images, icons, and the index.html file.
-src/: Contains all React components, Redux actions/reducers, and CSS/SCSS files.
-components/: Contains individual UI components like Navbar, ProductCard, Cart, etc.
-redux/: Contains Redux actions, reducers, and store setup.
-pages/: Contains page components such as Home, ProductDetail, Cart, etc.
-styles/: Contains styling files.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+ 
 
 Credits
 React: For building the user interface.
